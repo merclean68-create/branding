@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>مدرسة العلامات التجارية</title>
+  <title>مدرسة تعليم تسليط الضوء على العلامات التجارية</title>
 
   <style>
     body {
@@ -97,9 +97,10 @@
 <body>
 
   <header>
-    <h1>مدرسة تعليم العلامات التجارية</h1>
-    <p>القوة، الحضور، والتأثير بأسلوب فاخر</p>
-  </header>
+   <button> <h1>مدرسة تعليم تسليط الضوء على العلامات التجارية</h1> </button>
+   <button>    <p>القوة، الحضور، والتأثير بأسلوب فاخر</p> </button>
+    <button>      <h>هده الصفحة فقط ك اعلان لاصال الفكرة لكم و لمن اراد التعلم </h> </button> 
+</header>
 
   <div class="container">
 
